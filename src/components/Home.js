@@ -7,7 +7,7 @@ function Home(props) {
         {props.username} is a Web Developer from {props.city}
       </h1>
     </div>
-  );
+  )
 }
 
 export default Home;
